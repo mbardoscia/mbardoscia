@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mbardoscia
 - 👀 I’m interested in networking, C, Python and Shell programming
-- 🌱 I’m currently learning Cisco networking
+- 🌱 I’m currently learning Cisco networking and Bash shell
 - 💞️ I’m looking to collaborate on some of the previous items
 - 📫 How to reach me m.bardoscia@yahoo.com
 
