@@ -1,8 +1,15 @@
-- 👋 Hi, I’m @mbardoscia
-- 👀 I’m interested in networking, C, Python and Shell programming
-- 🌱 I’m currently learning Cisco networking and Bash shell
-- 💞️ I’m looking to collaborate on some of the previous items
-- 📫 How to reach me m.bardoscia@yahoo.com
+👋 Network Engineer | 20 years experience | LAN & WAN operations
+
+🔧 Specializing in:
+- Carrier-grade routing & switching (BGP, MPLS, OSPF, IS-IS)
+- L2/L3 design & troubleshooting
+- Cisco platforms (IOS/IOS-XE/IOS-XR, ASR/NCS)
+
+🐍 Automation: Python, Bash, network scripting
+
+🎯 Open to: SP/Carrier and large enterprise LAN networking projects
+
+📫 m.bardoscia@yahoo.com
 
 <!---
 mbardoscia/mbardoscia is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
