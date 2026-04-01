@@ -1,7 +1,7 @@
 👋 Network Engineer | 20 years experience | LAN & WAN operations
 
 🔧 Specializing in:
-- Carrier-grade routing & switching (BGP, MPLS, OSPF, IS-IS)
+- Carrier-grade routing & LAN switching 
 - L2/L3 design & troubleshooting
 - Cisco platforms (IOS/IOS-XE/IOS-XR, ASR/NCS)
 
